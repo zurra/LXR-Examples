@@ -67,8 +67,10 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
+Plugins/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/*
