@@ -1,6 +1,6 @@
 > [!CAUTION]
-> Examples DOES not work in 5.7
-> 5.7 broke the examples completely beyond repair.
+> Examples DOES not work in 5.7 <br>
+> 5.7 broke the examples completely beyond repair. <br>
 > New example project is being worked on.
 
 # LXR-Examples
